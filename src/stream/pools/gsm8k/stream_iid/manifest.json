@@ -1,0 +1,57 @@
+{
+  "ordering": "iid",
+  "seed": 0,
+  "stages": 4,
+  "pool_rows": 7462,
+  "test_rows": 1319,
+  "stage_summary": [
+    {
+      "stage": 0,
+      "train_rows": 1866,
+      "eval_rows": 330,
+      "domains": {
+        "money": 605,
+        "rate_time": 508,
+        "counting": 393
+      },
+      "mean_difficulty": 3.27,
+      "train_checksum": "e556a26cf441afc8"
+    },
+    {
+      "stage": 1,
+      "train_rows": 1866,
+      "eval_rows": 330,
+      "domains": {
+        "money": 645,
+        "rate_time": 493,
+        "counting": 381
+      },
+      "mean_difficulty": 3.27,
+      "train_checksum": "2ba453f212d38836"
+    },
+    {
+      "stage": 2,
+      "train_rows": 1865,
+      "eval_rows": 330,
+      "domains": {
+        "money": 592,
+        "rate_time": 540,
+        "counting": 395
+      },
+      "mean_difficulty": 3.23,
+      "train_checksum": "55bf01b421add6b9"
+    },
+    {
+      "stage": 3,
+      "train_rows": 1865,
+      "eval_rows": 329,
+      "domains": {
+        "money": 576,
+        "rate_time": 523,
+        "counting": 433
+      },
+      "mean_difficulty": 3.17,
+      "train_checksum": "b0eafbe346cc9ac1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ordering": "difficulty_curriculum",
+  "seed": 0,
+  "stages": 4,
+  "pool_rows": 7462,
+  "test_rows": 1319,
+  "stage_summary": [
+    {
+      "stage": 0,
+      "train_rows": 1865,
+      "eval_rows": 329,
+      "domains": {
+        "rate_time": 529,
+        "money": 506,
+        "counting": 467
+      },
+      "mean_difficulty": 1.78,
+      "train_checksum": "23fc182cc0af10f0"
+    },
+    {
+      "stage": 1,
+      "train_rows": 1865,
+      "eval_rows": 329,
+      "domains": {
+        "money": 567,
+        "rate_time": 495,
+        "counting": 471
+      },
+      "mean_difficulty": 2.62,
+      "train_checksum": "18e071483fcfa830"
+    },
+    {
+      "stage": 2,
+      "train_rows": 1865,
+      "eval_rows": 329,
+      "domains": {
+        "money": 615,
+        "rate_time": 533,
+        "proportion": 365
+      },
+      "mean_difficulty": 3.46,
+      "train_checksum": "9bb276cfd03dcb8c"
+    },
+    {
+      "stage": 3,
+      "train_rows": 1867,
+      "eval_rows": 332,
+      "domains": {
+        "money": 730,
+        "rate_time": 507,
+        "proportion": 318
+      },
+      "mean_difficulty": 5.07,
+      "train_checksum": "dab1c27626ec4e56"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ordering": "domain_blocked",
+  "seed": 0,
+  "stages": 4,
+  "pool_rows": 7462,
+  "test_rows": 1319,
+  "stage_summary": [
+    {
+      "stage": 0,
+      "train_rows": 2418,
+      "eval_rows": 436,
+      "domains": {
+        "money": 2418
+      },
+      "mean_difficulty": 3.42,
+      "train_checksum": "9c8120c2028c3779"
+    },
+    {
+      "stage": 1,
+      "train_rows": 2064,
+      "eval_rows": 362,
+      "domains": {
+        "rate_time": 2064
+      },
+      "mean_difficulty": 3.23,
+      "train_checksum": "cbb34723d4ff7188"
+    },
+    {
+      "stage": 2,
+      "train_rows": 1602,
+      "eval_rows": 288,
+      "domains": {
+        "counting": 1602
+      },
+      "mean_difficulty": 3.03,
+      "train_checksum": "06fe8cdbf622b0e3"
+    },
+    {
+      "stage": 3,
+      "train_rows": 1378,
+      "eval_rows": 233,
+      "domains": {
+        "proportion": 1378
+      },
+      "mean_difficulty": 3.16,
+      "train_checksum": "31e5dfafbb9c5dca"
+    }
+  ]
+}
