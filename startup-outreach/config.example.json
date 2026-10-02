@@ -1,0 +1,14 @@
+{
+  "your_name": "Ayush Patel",
+  "your_email": "you@gmail.com",
+  "phone": "+91 98xxxxxxxx",
+  "website": "https://your-website.com",
+  "resume_path": "resume.pdf",
+  "resume_attachment_name": "Ayush_Patel_Resume.pdf",
+  "target_role": "Software engineering roles (full-time or internship), backend / full-stack",
+  "extra_notes": "Anything true about you that is not on the resume: notice period, open to relocate, hackathon wins, etc.",
+  "companies_file": "companies.csv",
+  "city": "Bengaluru, India",
+  "daily_limit": 25,
+  "min_seconds_between_sends": 60
+}
